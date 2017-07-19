@@ -1,2 +1,2 @@
 # slcviolin
-webpage for slcviolin.com
+static gh-pages webpage for slcviolin.com
