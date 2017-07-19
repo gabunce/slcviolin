@@ -80,6 +80,13 @@
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 1em;
+		font-weight: bold;
+	}
+	
+	p
+	{
+		font-size: large;
+		color: grey;
 	}
 
 	header
@@ -173,6 +180,7 @@
 			.image img
 			{
 				display: block;
+				margin: auto;
 				width: 100%;
 				border-radius: 6px;
 			}
