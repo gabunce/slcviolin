@@ -6,7 +6,8 @@
 
 	body
 	{
-		background: #090909;
+		/* background: #090909; */
+		background: #a9a9a9;
 	}
 
 	body,input,textarea,select
@@ -32,6 +33,7 @@
 	{
 		font-weight: bold;
 		color: #000000;
+		/*font-size: 1em;*/
 	}
 	
 	em, i
@@ -101,6 +103,7 @@
 	
 		header .byline
 		{
+			font-size: 1.2em;
 			display: block;
 			text-transform: uppercase;
 		}
@@ -332,15 +335,18 @@
 		position: relative;
 		padding: 3em 0em;
 		text-align: center;
-		color: rgba(255,255,255,.2);
+		/*color: rgba(255,255,255, .2);*/
+		color: black;
 	}
 	
 	#copyright .container
 	{
 	}
 	
+	
 	#copyright a
 	{
 		text-decoration: none;
-		color: rgba(255,255,255,.3);
+		/*color: rgba(255,255,255,.3);*/
+		color: black;
 	}		
