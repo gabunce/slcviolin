@@ -135,6 +135,11 @@
 				color: #FFF;
 			}
 
+			#nav li.active
+			{
+				color:#FFF;
+			}
+
 			#nav > ul > li > ul
 			{
 				display: none;
