@@ -281,9 +281,14 @@
 	}
 	.teach-pics
 	{
-		display: block;
+		/*display: block;*/
 		padding: 5px; 
 		display:inline;
+	}
+	
+	.mobilesize{
+		width: 263px;
+		height: 160px;
 	}
 	
 	.teach-div
